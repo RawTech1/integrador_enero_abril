@@ -50,6 +50,11 @@
 ## Sensor LM35
 #### LM35 es un sensor de temperatura analogico permite medir temperatura en un rango desde -55oC hasta 150oC. Su salida es de tipo analogica y lineal con una pendiente de 10mV/oC.
 ![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/LM352.jpg)
+## Sensor CCS811
+#### El sensor de calidad de aire CCS811 es un sensor de detector de gas digital de muy baja potencia que incorpora un sensor de gas de oxido metálico para identificar una amplia gama de Compuestos Organicos Volátiles (COV) para el monitoreo de la calidad del aire con un microcontrolador que proporciona un ADC y una interfaz I2C.
+![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/ccs811-arduino-code-1200x1199.jpg)
+
+
 
 
 
