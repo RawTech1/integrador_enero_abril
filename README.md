@@ -53,6 +53,39 @@
 ## Sensor CCS811
 #### El sensor de calidad de aire CCS811 es un sensor de detector de gas digital de muy baja potencia que incorpora un sensor de gas de oxido metálico para identificar una amplia gama de Compuestos Organicos Volátiles (COV) para el monitoreo de la calidad del aire con un microcontrolador que proporciona un ADC y una interfaz I2C.
 ![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/ccs811-arduino-code-1200x1199.jpg)
+## Módulos Xbee
+#### XBee es el nombre comercial del Digi de una familia de módulos de comunicación por radio y están basados en el estándar Zigbee, pero Digi tiene muchos Xbee y algunos son Zigbee estándar y otros son propietarios o modificaciones del estándar. Existen muchos módulos Xbee basados en el estándar IEEE 802.15.4
+![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/modulo.jpeg)
+## Análisis FODA
+>[!Fortalezas]
+> * Crecimiento en el area de la electrónica para futuros proyectos aplicados en invernaderos sustentables.
+> * Independencia en el desarrollo de las tarjetas electrónicas para su libre patente.
+> * Adaptabilidad para cumplir con los requerimientos solicitados, dentro de los invernaderos.
+> * Calidad en el prodcuto
+> * Crecimiento en el desarrollo de nuevas tecnologías para la competitividad.
+
+>[!Oportunidades]
+> * Crecimiento inteligente del sector agrícola y sostenible con el medio ambiente.
+> * Comercialización de productos tecnológicos a consumidores del sector agrícola.
+> * Integración con tecnologías de control remoto.
+> * Colaboración con otros sectores.
+> * Aplicación de energías renovables para el suministro eléctrico.
+
+>[!Debilidades]
+> * Limitaciones en el hardware en comparación con otras tecnologías.
+> * Consumo de energía con respecto a la aplicación de nuevos componentes.
+> * Falta de precisión en los sensores para la medición de variables ambientes.
+> * Deficiencia en el mantenimiento del invernadero por falta de herramientas.
+> * Falta de servicios debido a la ubicación del invernadero.
+
+>[!Amenazas]
+> * Entorno peligroso al encontrarse en una zona rural
+> * Fallas en los componentes y poca disponibilidad del material.
+> * Condiciones climáticas extremas, así como bajas temperaturas.
+> * Costos de implementación al contar con un presupuesto limitado.
+> * Competencia en el ámbito tecnológico.
+
+
 
 
 
