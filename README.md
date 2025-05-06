@@ -27,7 +27,9 @@
 #### La perdida y desperdicio de agua en cultivos de invernaderos podría evitarse creando un sistema de automatización, medición, análisis y control que pueda administrarse y  realizar consultas de información almacenada dentro de una interfaz.
 ## Justificación
 #### Al implementar el proyecto se busca encontrar una solución y apoyo al problema de desperdicio de agua en el riego de cultivos en invernaderos, en donde la implementación de hardware propone realizar un sistema automatizado de riego mediante la recopilación de datos de sensores de humedad, temperatura y PH, y todos los datos sean almacenados en una interfaz desarrollada en python por el equipo que busque generar la automatización de invernaderos a un nivel más accesible para un usuario o administrador que busque consultar y monitorear los cambios y datos almacenados de cada cierto tiempo.
-## Objetivo general 
+## Objetivo general
+#### Diseñar y desarrollar un sistema embebido para adquisición, monitoreo, control y envío a distancia de datos de invernadero y sean visualizados en una interfaz desarrollada en python para el procesamiento, control y almacenamiento de datos.
+## Objetivos partículares 
 * Realizar un análisis de requerimientos a partir del uso del sistema de adquisición de datos.
 * Desarrollo de un sistema de control de invernadero a partir de un sensor de humedad del suelo y del ambiente.
 * Ejecutar mediciones de temperatura dentro del invernadero, así como en el exterior.
@@ -38,5 +40,18 @@
 * Crear una topología utilizando la tecnología de XBee.
 * Desarrollar una red de sensores para el monitoreo del invernadero.
 * Realizar diversas pruebas para obtener datos más precisos en cuanto a mediciones y distancia entre las XBee.
+# Marco Teórico
+## Sistema embebido
+#### Es un sistema de computacion diseñado para realizar funciones específicas, y cuyos componentes se encuentran integrados en una placa base.
+![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/sistema.jpg)
+## Microcontrolador
+#### Un Microcontrolador es un circuito integrado que incluye sistemas para controlar elementos de entrada/salida. Incluye un procesador y una memoria que puede guardar el programa y sus variables (flash y RAM) para posteriormente ejecutar las instrucciones almacenadas en su memoria. Su funcion es la de automatizar procesos y procesar información.
+![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/microcontrolador1.png)
+## Sensor LM35
+#### LM35 es un sensor de temperatura analogico permite medir temperatura en un rango desde -55oC hasta 150oC. Su salida es de tipo analogica y lineal con una pendiente de 10mV/oC.
+![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/LM352.jpg)
+
+
+
 
 
