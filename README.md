@@ -58,6 +58,7 @@
 ![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/modulo.jpeg)
 ## Análisis FODA
 >[!Fortalezas]
+>
 > * Crecimiento en el area de la electrónica para futuros proyectos aplicados en invernaderos sustentables.
 > * Independencia en el desarrollo de las tarjetas electrónicas para su libre patente.
 > * Adaptabilidad para cumplir con los requerimientos solicitados, dentro de los invernaderos.
