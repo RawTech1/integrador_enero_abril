@@ -59,7 +59,7 @@
 ## Análisis FODA
 >[!IMPORTANT]
 >
->This is a standard NOTE block.
+>A continuación, se desplaza el análisis FODA.
 
 >[!Fortalezas]
 >
