@@ -57,6 +57,10 @@
 #### XBee es el nombre comercial del Digi de una familia de módulos de comunicación por radio y están basados en el estándar Zigbee, pero Digi tiene muchos Xbee y algunos son Zigbee estándar y otros son propietarios o modificaciones del estándar. Existen muchos módulos Xbee basados en el estándar IEEE 802.15.4
 ![screen](https://github.com/RawTech1/integrador_enero_abril/blob/main/modulo.jpeg)
 ## Análisis FODA
+>[!NOTE]
+>
+>This is a standard NOTE block.
+
 >[!Fortalezas]
 >
 > * Crecimiento en el area de la electrónica para futuros proyectos aplicados en invernaderos sustentables.
