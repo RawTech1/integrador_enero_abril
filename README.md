@@ -85,6 +85,7 @@
 > * Costos de implementación al contar con un presupuesto limitado.
 > * Competencia en el ámbito tecnológico.
 
+>[!VIDEO](https://github.com/RawTech1/integrador_enero_abril/blob/main/video.mp4)
 
 
 
